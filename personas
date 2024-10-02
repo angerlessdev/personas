@@ -1,0 +1,55 @@
+{
+  "personas": [
+    {
+      "name": {
+        "title": "Mr",
+        "first": "John",
+        "last": "Doe"
+      },
+      "email": "johndoe@example.com",
+      "cell": "+1-202-555-0178",
+      "picture": {
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+      },
+      "location": {
+        "city": "New York"
+      },
+      "gender": "male",
+      "isFavorite": false
+    },
+    {
+      "name": {
+        "title": "Ms",
+        "first": "Jane",
+        "last": "Smith"
+      },
+      "email": "janesmith@example.com",
+      "cell": "+1-202-555-0134",
+      "picture": {
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+      },
+      "location": {
+        "city": "Los Angeles"
+      },
+      "gender": "female",
+      "isFavorite": false
+    },
+    {
+      "name": {
+        "title": "Dr",
+        "first": "Emily",
+        "last": "Johnson"
+      },
+      "email": "emilyjohnson@example.com",
+      "cell": "+1-202-555-0190",
+      "picture": {
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+      },
+      "location": {
+        "city": "San Francisco"
+      },
+      "gender": "female",
+      "isFavorite": true
+    }
+  ]
+}
